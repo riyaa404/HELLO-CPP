@@ -4,7 +4,7 @@ This is CPP learning repository.
 Reference Resource : <br>
 1.geeksforgeeks <br>
 2.takeuforward <br>
-<br> <br>
+<br>
 
 --- Concepts Covered ---
 
