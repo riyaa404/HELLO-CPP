@@ -8,4 +8,5 @@ Reference Resource : <br>
 
 --- Concepts Covered ---
 
-1.Class and Objects
+1.Fuctions <br>
+2.Class and Objects <br>
