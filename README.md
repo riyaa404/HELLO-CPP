@@ -10,3 +10,5 @@ Reference Resource : <br>
 
 1.Fuctions <br>
 2.Class and Objects <br>
+3.Pointers <br>
+4.Arrays <br>
