@@ -28,6 +28,7 @@ void primes(int val)
         }
     }
 }
+
 int main()
 {
     int num;
