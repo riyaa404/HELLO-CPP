@@ -12,7 +12,6 @@ class Number
         void print();
         //Do not add your own member function.
 };
-
 void Number::scan()
 {
     cin >> x >> y;
@@ -27,7 +26,6 @@ void Number::print()
 int main()
 {
     //Scan and print data for 2 objects.
-
     Number num1, num2;
 
     cout << "\nEnter x and y for num1 : ";

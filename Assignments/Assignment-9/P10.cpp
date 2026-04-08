@@ -8,7 +8,6 @@ class Number
 {
 	int x;
 	//do not add member function here.
-
     friend class Digit;
 };
 class Digit
@@ -29,12 +28,10 @@ class Digit
         {
             show();
         }
-};
-	
+};	
 int main()
 {
     Digit D;
     D.disp();
-    
     return 0;
 }

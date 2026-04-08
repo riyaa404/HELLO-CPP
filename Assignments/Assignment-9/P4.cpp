@@ -37,7 +37,6 @@ void Number::myfun(Number obj1, Number obj2)
 int main()
 {
 	//Perform T3 = T1 + T2 for given class Number
-
 	Number T1, T2, T3;
 
 	T1.scan();
