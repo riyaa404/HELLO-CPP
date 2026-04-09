@@ -13,12 +13,15 @@ int main()
         case 1 :
             cout << "ONE";
             break;
+
         case 2 : 
             cout << "TWO";
             break;
+
         case 3 :
             cout << "THREE";
             break;
+            
         default : 
             cout << "Wrong Input";
     }
