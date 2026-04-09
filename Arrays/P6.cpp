@@ -1,4 +1,4 @@
-// Binary Search - has better time complexity than linear search
+// Binary Search O(log n) - has better time complexity than linear search
 // NOTE: the array should be sorted before applying binary search logic.
 
 #include <iostream> 

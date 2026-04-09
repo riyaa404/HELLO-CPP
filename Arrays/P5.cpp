@@ -6,14 +6,14 @@ using namespace std;
 int main()
 {
     int i, n=5;
-    int arr[5], rev[5];
+    int arr[n];
 
     cout << "Enter 5 Elements of Array : ";
     for(i=0; i<n; i++)
     {
         cin >> arr[i];
     }
-    int start = 0, end = 4;
+    int start = 0, end = n-1;
     while(start < end)
     {
         swap(arr[start], arr[end]);
