@@ -30,5 +30,6 @@ int main()
     {
         cout << rev[i] << " ";
     }
+    
     return 0;
 }
